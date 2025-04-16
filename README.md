@@ -1,8 +1,5 @@
-Entendi! Vou corrigir a estrutura de diretórios conforme a organização atual do seu projeto **Tulip IA**. Aqui está a documentação atualizada:
 
----
-
-# Projeto: **Tulip IA**
+# **Tulip IA**
 
 **Tulip IA** é um projeto que integra inteligência artificial para automação de tarefas, com foco na interação com a OpenAI API. O objetivo é simplificar o uso de IA e proporcionar uma experiência prática para desenvolvedores.
 
@@ -100,6 +97,3 @@ Tulip-IA/
 
 Este projeto está licenciado sob a [Licença MIT](LICENSE).
 
----
-
-Agora a documentação está ajustada de acordo com a estrutura de diretórios do seu projeto **Tulip IA**. Caso precise de mais alguma modificação, é só falar!
