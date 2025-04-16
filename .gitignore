@@ -1,0 +1,8 @@
+# Ignorar o arquivo .env com a chave da API
+.env
+
+# Ignorar o diretório do ambiente virtual 'venv'
+venv/
+
+# Ignorar o arquivo temporário de execução do CodeRunner
+tempCodeRunnerFile.py
