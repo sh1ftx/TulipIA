@@ -3,7 +3,7 @@
 
 **Tulip IA** é um projeto que integra inteligência artificial para automação de tarefas, com foco na interação com a OpenAI API. O objetivo é simplificar o uso de IA e proporcionar uma experiência prática para desenvolvedores.
 
-![Texto alternativo](https://pin.it/fxqJWhAgJ)
+<img src="https://pin.it/fxqJWhAgJ" alt="Texto alternativo">
 
 ## Descrição
 
